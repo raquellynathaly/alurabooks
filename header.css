@@ -9,16 +9,16 @@
 }
 
 .cabecalho{
-    background-color:aliceblue
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
 }
  .container{
-display: flex;
-align-items: center;
+     display: flex;
+     align-items: center;
 }
 
  .container imagem{
-padding: lem;
+     padding: lem;
     
 }
