@@ -5,4 +5,20 @@
     background-image: url("../img/Menu.svg");
     display: inline-block;
     background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cabeçalho{
+    background-color:aliceblue
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container imagem{
+    padding: lem;
+    
 }
